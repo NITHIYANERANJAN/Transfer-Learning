@@ -122,7 +122,7 @@ def train_model(model, train_loader, test_loader, num_epochs=5):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img width="861" height="744" alt="image" src="https://github.com/user-attachments/assets/38919be3-4796-49d6-a5be-088b1c5d89ae" />
+<img width="939" height="756" alt="image" src="https://github.com/user-attachments/assets/fc6c773f-7e1d-40af-b116-4cbeaa5dab41" />
 
 
 ### Confusion Matrix
